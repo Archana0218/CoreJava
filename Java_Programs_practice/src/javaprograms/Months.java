@@ -1,9 +1,11 @@
 package javaprograms;
 
-public class Months {
+public class Months 
+{
 	enum MONTH {Jan = 0, Feb, Mar};
 	   
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		
 		enum MONTH month = Mar;
 
