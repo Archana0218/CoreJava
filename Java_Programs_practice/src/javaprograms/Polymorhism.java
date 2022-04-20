@@ -51,7 +51,7 @@ public static void main(String[] args)
 	poly.method_overloading();
 	poly.method_overloading(12,2);
 	poly.method_overloading(18, 23.18);
-	I m=new I();
+	I m=new A();
 	m.disp();
 }
 
