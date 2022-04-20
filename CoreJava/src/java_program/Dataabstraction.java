@@ -2,12 +2,10 @@ package java_program;
 
 abstract class ATM
 {
-	
+
 abstract void withdraw();
  
-
 }
-
 
 public class Dataabstraction extends ATM
 {
