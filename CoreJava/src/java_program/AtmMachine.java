@@ -2,7 +2,7 @@ package java_program;
 
 public class  AtmMachine{
 	
-		private double atmAmount;
+		double atmAmount;
 		public void getAmountinfo()
 		{
 			atmAmount=45000;
